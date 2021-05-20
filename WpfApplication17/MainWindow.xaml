@@ -49,7 +49,7 @@
                 </Button.Template>
             </Button>
         </Grid>
-        <wpfApplication17:CountrySelectControl x:Name="SelectControl" Grid.Row="1" Background="LightSkyBlue"></wpfApplication17:CountrySelectControl>
+        <wpfApplication17:SelectControl x:Name="SelectControl" Grid.Row="1" Background="LightSkyBlue"></wpfApplication17:SelectControl>
         <Grid Grid.Row="2"  Background="#FF75C9FD">
             <Button x:Name="BtnConfirm" Height="30" Width="80" Background="#FF31C4F5" Content="确 定" Click="BtnConfirm_OnClick" Foreground="White" FontSize="18" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="30,0"></Button>
         </Grid>

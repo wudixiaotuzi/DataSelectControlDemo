@@ -53,8 +53,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="CountrySelectControl.xaml.cs">
-      <DependentUpon>CountrySelectControl.xaml</DependentUpon>
+    <Compile Include="SelectControl.xaml.cs">
+      <DependentUpon>SelectControl.xaml</DependentUpon>
     </Compile>
     <Compile Include="SearchControl.xaml.cs">
       <DependentUpon>SearchControl.xaml</DependentUpon>
